@@ -1,27 +1,23 @@
 *{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 0px; 
+    color: white;
 }
-section{
-    margin: 15px 50px 15px 50px;
-    background-color: black;
-    width: 120px;
-    padding: 10px 10px 10px 25px;
+
+#navbar
+{
+    height:50px;
+    background-color: #0f1111;
+    padding-top: 15px;
 }
-div{
-     height: 100px;
-     width: 100px;
-     border-radius:50%;
-     margin-bottom: 5px;
+button{
+    background-color:#f08804 ;
 }
-#c1{
-    background-color: red;
+#logo{
+    color: #f08804;
+    font-size: 25px;
 }
-#c2{
-    background-color: yellow;
-}
-#c3{
-    background-color:   green;
-}
-#main{
-    color: black;
+a{
+    margin-right: 200px;
+    text-decoration: none;
 }
