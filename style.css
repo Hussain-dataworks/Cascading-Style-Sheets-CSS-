@@ -21,3 +21,30 @@ a{
     margin-right: 200px;
     text-decoration: none;
 }
+#content{
+    height: 600px;
+}
+.contentbox{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#contentbox1
+{
+    background-color: rgba(255 , 0 , 0, 0.5);
+}
+#contentbox2
+{
+    background-color: rgba(0 ,255 , 0 , 0.5);
+}
+#contentbox3
+{
+    background-color: rgba(0 , 0 , 255  , 0.5);
+}
+footer{
+    background-color:rgba(15 , 17 , 17 , 0.75);
+    padding:25px 50px 20px 50px ;
+    text-align: center;
+
+}
